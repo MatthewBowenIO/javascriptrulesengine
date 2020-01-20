@@ -1,0 +1,9 @@
+{
+    "id":10,
+    "damaged":true,
+    "operating_system":"windows_10",
+    "processor":"intel_p4",
+    "model":"asus",
+    "model_year":2015,
+    "features":"touchscreen"
+ }
